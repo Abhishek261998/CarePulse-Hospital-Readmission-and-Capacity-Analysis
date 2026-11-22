@@ -1,0 +1,12 @@
+table,issue,rows_affected
+encounters,Duplicate encounter records,371
+encounters,Missing discharge_date,502
+encounters,discharge_date earlier than encounter_date,100
+encounters,Negative total_cost,251
+patients,Non-standard gender coding,180
+patients,City case/whitespace inconsistency,90
+patients,Missing payer_id,30
+encounters,Orphan record (unknown patient_id),75
+medications,total_cost != quantity * unit_cost,658
+claims,paid_amount greater than billed_amount,123
+claims,Orphan claim (unknown encounter_id),99

@@ -1,0 +1,8 @@
+payer_id,payer_name,payer_type
+PAY-01,Star Health,Private
+PAY-02,HDFC Ergo,Private
+PAY-03,ICICI Lombard,Private
+PAY-04,Ayushman Bharat PMJAY,Government
+PAY-05,CGHS,Government
+PAY-06,ESIC,Government
+PAY-07,Self-pay,Self-pay

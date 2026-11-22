@@ -1,0 +1,43 @@
+provider_id,provider_name,specialty,department,organization
+PRV-0001,Dr. Sneha Rathore,Internal Medicine,General Medicine,CarePulse Multispeciality Network
+PRV-0002,Dr. Riya Saini,Internal Medicine,General Medicine,CarePulse Multispeciality Network
+PRV-0003,Dr. Ravi Verma,Internal Medicine,General Medicine,CarePulse Multispeciality Network
+PRV-0004,Dr. Ishaan Verma,Cardiology,Cardiology,CarePulse Multispeciality Network
+PRV-0005,Dr. Pooja Tiwari,Cardiology,Cardiology,CarePulse Multispeciality Network
+PRV-0006,Dr. Nikhil Nagar,Cardiology,Cardiology,CarePulse Multispeciality Network
+PRV-0007,Dr. Shreya Nagar,Cardiology,Cardiology,CarePulse Multispeciality Network
+PRV-0008,Dr. Neha Gupta,Cardiology,Cardiology,CarePulse Multispeciality Network
+PRV-0009,Dr. Riya Bansal,Emergency Medicine,Emergency,CarePulse Multispeciality Network
+PRV-0010,Dr. Saanvi Meena,Emergency Medicine,Emergency,CarePulse Multispeciality Network
+PRV-0011,Dr. Lakshmi Nagar,Emergency Medicine,Emergency,CarePulse Multispeciality Network
+PRV-0012,Dr. Rakesh Saini,Emergency Medicine,Emergency,CarePulse Multispeciality Network
+PRV-0013,Dr. Meera Bansal,Emergency Medicine,Emergency,CarePulse Multispeciality Network
+PRV-0014,Dr. Riya Choudhary,Emergency Medicine,Emergency,CarePulse Multispeciality Network
+PRV-0015,Dr. Vihaan Trivedi,Orthopaedic Surgery,Orthopedics,CarePulse Multispeciality Network
+PRV-0016,Dr. Anjali Verma,Orthopaedic Surgery,Orthopedics,CarePulse Multispeciality Network
+PRV-0017,Dr. Ravi Khandelwal,Orthopaedic Surgery,Orthopedics,CarePulse Multispeciality Network
+PRV-0018,Dr. Rakesh Meena,Pulmonology,Pulmonology,CarePulse Multispeciality Network
+PRV-0019,Dr. Sneha Chauhan,Pulmonology,Pulmonology,CarePulse Multispeciality Network
+PRV-0020,Dr. Saanvi Verma,Pulmonology,Pulmonology,CarePulse Multispeciality Network
+PRV-0021,Dr. Ashok Saini,Pulmonology,Pulmonology,CarePulse Multispeciality Network
+PRV-0022,Dr. Priya Nagar,Medical Oncology,Oncology,CarePulse Multispeciality Network
+PRV-0023,Dr. Sneha Meena,Medical Oncology,Oncology,CarePulse Multispeciality Network
+PRV-0024,Dr. Saanvi Choudhary,Medical Oncology,Oncology,CarePulse Multispeciality Network
+PRV-0025,Dr. Neha Sharma,Medical Oncology,Oncology,CarePulse Multispeciality Network
+PRV-0026,Dr. Rahul Meena,Medical Oncology,Oncology,CarePulse Multispeciality Network
+PRV-0027,Dr. Nikhil Rathore,Medical Oncology,Oncology,CarePulse Multispeciality Network
+PRV-0028,Dr. Nikhil Yadav,Gastroenterology,Gastroenterology,CarePulse Multispeciality Network
+PRV-0029,Dr. Ashok Saini,Gastroenterology,Gastroenterology,CarePulse Multispeciality Network
+PRV-0030,Dr. Aadhya Saxena,Gastroenterology,Gastroenterology,CarePulse Multispeciality Network
+PRV-0031,Dr. Saanvi Verma,Gastroenterology,Gastroenterology,CarePulse Multispeciality Network
+PRV-0032,Dr. Kavya Nagar,Gastroenterology,Gastroenterology,CarePulse Multispeciality Network
+PRV-0033,Dr. Ishaan Choudhary,Gastroenterology,Gastroenterology,CarePulse Multispeciality Network
+PRV-0034,Dr. Priya Choudhary,Neurology,Neurology,CarePulse Multispeciality Network
+PRV-0035,Dr. Aadhya Jain,Neurology,Neurology,CarePulse Multispeciality Network
+PRV-0036,Dr. Rahul Rathore,Neurology,Neurology,CarePulse Multispeciality Network
+PRV-0037,Dr. Riya Meena,Nephrology,Nephrology,CarePulse Multispeciality Network
+PRV-0038,Dr. Meera Purohit,Nephrology,Nephrology,CarePulse Multispeciality Network
+PRV-0039,Dr. Priya Verma,Nephrology,Nephrology,CarePulse Multispeciality Network
+PRV-0040,Dr. Diya Nagar,Nephrology,Nephrology,CarePulse Multispeciality Network
+PRV-0041,Dr. Meera Saini,Nephrology,Nephrology,CarePulse Multispeciality Network
+PRV-0042,Dr. Vikram Khandelwal,Nephrology,Nephrology,CarePulse Multispeciality Network
